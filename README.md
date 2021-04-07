@@ -10,7 +10,7 @@ imaginatives.
 
 
 Dans la finance
-Pour une vue d’ensemble, on peut citer cette publication https://arxiv.org/pdf/1911.05620.pdf et cette présentation https://gmarti.gitlab.io/quant/2020/09/27/thoughts-gans-finance.html qui présentent respectivement l’utilisation du deep-learning (et notamment des GANs) et des
+pour une vue d’ensemble, on peut citer cette publication https://arxiv.org/pdf/1911.05620.pdf et cette présentation https://gmarti.gitlab.io/quant/2020/09/27/thoughts-gans-finance.html qui présentent respectivement l’utilisation du deep-learning (et notamment des GANs) et des
 réseaux génératifs dans la finance.
 
 Pour une approche en détail, cet article https://www.mlq.ai/synthetic-data-finance-gans/ accompagne cette publication https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf et le code source https://github.com/stefan-jansen/machine-learning-for-trading/blob/master/21_gans_for_synthetic_time_series/02_TimeGAN_TF2.ipynb
