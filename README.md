@@ -1,16 +1,4 @@
-# Reseaux-adverseriaux-generatifs
-
-Deadline le 9/04/21
-
-Inscription dans le forum correspondant (sujet et membres du groupe), suivi de projet par réponse au post d'inscription.
-
-Livrable: un lien vers un dépôt Github contenant le document de présentation et éventuellement le code ou les ressources correspondante
-Le document de présentation peut prendre la forme d'un pdf, de pages Readme.md dans github en Markdown présentant les dossiers de code avec des liens internes, ou encore d'un Notebook combinant code et documentation.
-
-La livraison du travail est attendue par réponse à votre sujet dans l'espace de suivi avant la deadline, l'horodatage du forum faisant foi.
-
-
-# 11. Réseaux adverseriaux génératif
+Réseaux adverseriaux génératif
 
 ## Les GANs ont depuis leur popularisation (2014 Goodfellow) constitué l’une des
 applications les plus spectaculaires des récentes avancées rendues possible par le deep learning.
