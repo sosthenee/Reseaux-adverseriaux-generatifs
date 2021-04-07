@@ -1,6 +1,6 @@
-Réseaux adverseriaux génératif
+# Réseaux adverseriaux génératif
 
-## Les GANs ont depuis leur popularisation (2014 Goodfellow) constitué l’une des
+ Les GANs ont depuis leur popularisation (2014 Goodfellow) constitué l’une des
 applications les plus spectaculaires des récentes avancées rendues possible par le deep learning.
 
 A la croisée des chemins entre apprentissage et théorie des jeux, ils f
